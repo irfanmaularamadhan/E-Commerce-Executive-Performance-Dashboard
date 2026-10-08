@@ -35,7 +35,7 @@ Melalui visualisasi data yang disajikan, manajemen dapat menjawab pertanyaan str
 ## Teknologi yang Digunakan
 
 
-- Sumber Data: E-Commerce Dataset
+- Sumber Data: [E-Commerce Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 - Database Engine: PostgreSQL
 - Alat Visualisasi: Power BI Desktop
 
